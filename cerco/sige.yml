@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: Brasilangola@2310
-    url: jdbc:sqlserver://172.16.10.216:1433;databaseName=siga_okayula_cgs
+    url: jdbc:sqlserver://localhost:1433;databaseName=siga_okayula_cgs
     username: sa
   jpa:
     hibernate:
